@@ -5,5 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <!-- adding color for green feature -->
     <color name="colorGreenFeature">#00FF00</color>
-    <color name="colorRedFeature">#FF0000</color>
+    <color name="colorWhiteFeature">#FFFFFF</color>
 </resources>
